@@ -7,7 +7,7 @@ Current status: Decidedly not ready. A lot of things work, but controls are very
 To jump straight into taking a look at the current progress, just:
 - Clone, download, or otherwise get the repository into your local computer:
 ```sh
-git clone https://github.com/jbolns//zx_vis.git
+git clone https://github.com/jbolns/zx_vis.git
 ```
 - Install all necessary dependencies
 ```sh
