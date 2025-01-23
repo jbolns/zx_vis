@@ -1,7 +1,7 @@
 # ⚛️ Tentative 3D ZX visualiser
 This is a preliminary concept for a JS-based environment to automatically generate 3D structures directly from PyZX data as close to correctness as possible, edit them, and export them to an useful (but yet to be determined format).
 
-Current status: A lot of things work, but controls are very unintuitive.
+Current status: Decidedly not ready. A lot of things work, but controls are very unintuitive.
 
 ## 🚀 Launch
 To jump straight into taking a look at the current progress, just:
